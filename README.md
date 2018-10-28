@@ -12,7 +12,7 @@ We can use weather forecast (API like OpenWeatherMap) to determine the possibili
 ### How users can get started with the project
 Users will have to register their phone number on database, after which they will recieve realtime update of urban floods and best evacuation path in case of flood.
 
-### What dataset(s) are we using
+### What datasets are we using
 CartoDEM
 Planet Dataset
 
