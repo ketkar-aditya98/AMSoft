@@ -5,7 +5,7 @@ A system that will demarcate potential urban flood zones and accordingly notify 
 Based upon the DEM images of the city, the model will precompute the areas which have high possibility of getting affected in case a flood occurs. The system will notify the people living in  that area through SMS to move to some safer location. SMS will include the nearest safest locations along with the directions to reach that location.
 Concerned authorities will get notified with a suggested plan of action to be undertaken in accordance with the Government of India’s Standard Operating procedures for Urban flooding.
 
-### How does it work
+### How does it work?
 Notifications along with directions to all the concerned departments.
 We can use weather forecast (API like OpenWeatherMap) to determine the possibility of heavy rainfall in the region. Along with this, the present sea level can also be a major indicator for occurence of flood. 
 
